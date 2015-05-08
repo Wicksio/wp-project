@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/acf"]
 	path = wp-content/plugins/acf
 	url = https://github.com/elliotcondon/acf.git
+[submodule "wp-content/themes/html5blank"]
+	path = wp-content/themes/html5blank
+	url = https://github.com/toddmotto/html5blank.git
