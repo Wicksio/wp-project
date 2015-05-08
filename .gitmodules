@@ -1,3 +1,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = https://github.com/WordPress/WordPress
+[submodule "wp-content/plugins/acf"]
+	path = wp-content/plugins/acf
+	url = https://github.com/elliotcondon/acf.git
